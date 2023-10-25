@@ -1,5 +1,9 @@
 Dislocation-Loop-Analysis-through-Generative-AI-Leveraging-Variational-Autoencoders
 
+
+![image](https://github.com/shradhautk/Dislocation-Loop-Analysis-through-Generative-AI-Leveraging-Variational-Autoencoders/assets/101154495/4bf31a19-cb7b-4a8c-9506-7cb3da3a64dd)
+
+
 This code focuses on the training of Variational Autoencoders (VAEs) using image patches extracted from microscopy images containing irradiation induced dislocation loops to uncover latent representations. It introduces various types of VAEs, including:
 
 Vanilla VAE: Featuring 2 continuous latent variables.
